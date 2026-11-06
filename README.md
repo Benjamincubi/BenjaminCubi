@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Benjamín Cubi 👋
 
-<!--
-**Benjamincubi/BenjaminCubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero electrónico | Diseño de PCB y firmware ESP32/IoT**
 
-Here are some ideas to get you started:
+Ayudo a emprendedores y empresas a llevar sus productos del esquema
+al prototipo funcional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué hago
+- Diseño de PCB (Altium Designer): del esquemático al archivo de fabricación
+- Firmware para ESP32/STM32 y LoRa
+- Integración IoT: MQTT, Home Assistant, dashboards
+
+## Herramientas
+Altium Designer · ESP32 · STM32 · C/C++ · Python · MQTT · Grafana · Node-RED
+
+## Proyectos
+🔧 **En desarrollo:** nodo IoT con ESP32 (PCB en Altium Designer,
+firmware, MQTT y dashboard). Documentación y archivos próximamente.
+
+## Contacto
+📧 benjamin.david.cubi@gmail.com
